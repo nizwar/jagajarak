@@ -19,7 +19,7 @@ Aplikasi mengirim notifikasi melalui perangkat pengguna ODP atau PDP, Pengguna d
 * A : Mulai Layanan, Wajib dilakukan untuk kamu yang berkondisi ODP atau PDP, jika Sehat kamu tetap akan mendapatkan notifikasi meskipun tidak memulai layanan.
 -------------------
 * Q : Apakah aman mengaktifkan bluetooth setiap saat?
-* A : Tentu saja, Bluetooth aman diaktifkan setiap saat (Terutama ketika kamu menggunakan aplikasi Jarak Kita).
+* A : Tentu saja, Bluetooth aman diaktifkan setiap saat (Terutama ketika kamu menggunakan aplikasi Jaga Jarak).
 
 ## Privasi
 Aplikasi tidak melakukan data collecting, yang artinya aplikasi tidak mengambil, mengubah atau menambah informasi pribadi siapapun, Setiap data yang ditampilkan hanya tersimpan diperangkatmu, akan ikut terhapus saat kamu uninstall aplikasi ini.
