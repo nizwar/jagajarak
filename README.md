@@ -16,10 +16,15 @@ Aplikasi mengirim notifikasi melalui perangkat pengguna ODP atau PDP, Pengguna d
 
 ## FAQ
 * Q : Apakah "Mulai Layanan" wajib dilakukan dalam kondisi apa saja?
-* A : Mulai Layanan, Wajib dilakukan untuk kamu yang berkondisi ODP atau PDP, jika Sehat kamu tetap akan mendapatkan notifikasi meskipun tidak memulai layanan.
--------------------
+* A : Mulai Layanan, Wajib dilakukan untuk kamu yang berkondisi ODP atau PDP, jika Sehat kamu tetap akan mendapatkan notifikasi meskipun tidak memulai layanan. 
 * Q : Apakah aman mengaktifkan bluetooth setiap saat?
 * A : Tentu saja, Bluetooth aman diaktifkan setiap saat (Terutama ketika kamu menggunakan aplikasi Jaga Jarak).
+
+## Link
+Aplikasi belum tersedia di Playstore, kamu bisa mengunduhnya melalui link ini. Silahkan download sesuai jenis perangkatmu, kalo kamu tidak yakin, silahkan coba satu persatu.
+
+* [Download Aplikasi Jaga Jarak](https://github.com/nizwar/jagajarak/tree/master/apks).
+* [Screenshot Aplikasi Jaga Jarak](https://github.com/nizwar/jagajarak/tree/master/images).
 
 ## Privasi
 Aplikasi tidak melakukan data collecting, yang artinya aplikasi tidak mengambil, mengubah atau menambah informasi pribadi siapapun, Setiap data yang ditampilkan hanya tersimpan diperangkatmu, akan ikut terhapus saat kamu uninstall aplikasi ini.
