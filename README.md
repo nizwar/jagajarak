@@ -21,9 +21,11 @@ Aplikasi mengirim notifikasi melalui perangkat pengguna ODP atau PDP, Pengguna d
 * A : Tentu saja, Bluetooth aman diaktifkan setiap saat (Terutama ketika kamu menggunakan aplikasi Jaga Jarak).
 
 ## Changelog
+- 1.1.2
+    - Bug telah diperbaiki.
 - 1.1.0
     - Menambahkan tampilan saat notifikasi ditap.
-    - Wajib `Memulai Layanan` untuk mendapatkan notifikasi.
+    - Wajib memulai layanan untuk mendapatkan notifikasi.
     - Peningkatan Peforma.
     - BUG telah diperbaiki.
 
@@ -31,11 +33,9 @@ Aplikasi mengirim notifikasi melalui perangkat pengguna ODP atau PDP, Pengguna d
     - Rilis pertama.
 
 ## Link
-Aplikasi belum tersedia di Playstore, kamu bisa mengunduhnya melalui link berikut. Silahkan download sesuai jenis perangkatmu, kalo kamu tidak yakin, silahkan coba satu persatu.
-* [Jaga Jarak v1.1.0 - ARM64](https://github.com/nizwar/jagajarak/raw/master/apks/app-arm64-v8a-release.apk). (7.1Mb)
-* [Jaga Jarak v1.1.0 - ARMEABI](https://github.com/nizwar/jagajarak/raw/master/apks/app-armeabi-v7a-release.apk). (7.4Mb)
-* [Jaga Jarak v1.1.0 - 32_64bit](https://github.com/nizwar/jagajarak/raw/master/apks/app-x86_64-release.apk). (7.5Mb)
+Aplikasi belum tersedia di Playstore, kamu bisa mengunduhnya melalui link ini. Silahkan download sesuai jenis perangkatmu, kalo kamu tidak yakin, silahkan coba satu persatu.
 
+* [Download Aplikasi Jaga Jarak](https://github.com/nizwar/jagajarak/tree/master/apks).
 * [Screenshot Aplikasi Jaga Jarak](https://github.com/nizwar/jagajarak/tree/master/images).
 
 ## Privasi
